@@ -1,5 +1,5 @@
 # EVANS-GROUP-OF-COMPANIES-SALES-TRANSACTION-ANALYSIS-FOR-2023
-ntroduction
+Introduction
 
 In the modern business environment, data-driven decision-making plays a critical role in driving growth and improving efficiency. Sales data provides valuable insights into customer behavior, product performance, seasonal trends, and overall business health. Analyzing sales data allows organizations to make informed decisions regarding marketing strategies, inventory management, pricing models, and customer targeting. This report focuses on the analysis of sales data to uncover patterns, trends, and actionable insights that can help improve business performance and profitability.
 
